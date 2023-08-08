@@ -23,3 +23,23 @@ So, if that what we need to do then we have to use another data structure called
 This data structure can grow or shrink very quickly but accessing a linked list by its index is slow.
 
 So, that's why we need to learn about the Big O notation first before we can talk about various data structures.
+
+### Growth Rates
+
+![Growth Rates](<Growth Rates.png>)
+
+**Note:** These are not the only growth rates to find out time and space complexity of an algorithm but these are the ones you'll see most of the time. There are also some variations of these.
+
+### Growth Curves
+
+![Growth Curves](<Growth Curves.png>)
+
+### Bonus Charts
+
+Copied from https://www.bigocheatsheet.com
+
+![Big O Complexity Chart](<Big O Complexity Chart.png>)
+
+![Common Data Structure Operations](<Common Data Structure Operations.png>)
+
+![Array Sorting Algorithms](<Array Sorting Algorithms.png>)
